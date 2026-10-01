@@ -1,0 +1,27 @@
+108 20250407 930 CONTROL             PROGRAMADA          Axl Rose                      Canario             Amarillo            AVE
+101 20250407 1100 CONTROL             PROGRAMADA          Luna                          Labrador            Negro               CANINO
+101 20250417 1100 CONTROL             PROGRAMADA          Luna                          Labrador            Negro               CANINO
+103 20251003 1230 VACUNACION          PROGRAMADA          Rocky                         Bulldog             Marron              CANINO
+126 20251021 1000 CONTROL             PROGRAMADA          Pimpona                       Agapornis           Lutino              AVE
+126 20251103 930 CONTROL             REPROGRAMADA        Pimpona                       Agapornis           Lutino              AVE
+126 20251112 930 CONTROL             REPROGRAMADA        Pimpona                       Agapornis           Lutino              AVE
+109 20251220 1230 CONTROL             PROGRAMADA          Dali                          Americano           Blanco              FELINO
+125 20251220 930 CONTROL             REPROGRAMADA        Debbie Harry                  Canario             Amarillo Mosaico    AVE
+125 20251222 930 CONTROL             REPROGRAMADA        Debbie Harry                  Canario             Amarillo Mosaico    AVE
+108 20260117 1530 CONTROL             PROGRAMADA          Axl Rose                      Canario             Amarillo            AVE
+109 20260220 1430 CONTROL             PROGRAMADA          Dali                          Americano           Blanco              FELINO
+109 20260312 1330 VACUNA              PROGRAMADA          Dali                          Americano           Blanco              FELINO
+103 20260402 1030 CONTROL             REPROGRAMADA        Rocky                         Bulldog             Marron              CANINO
+103 20260408 1030 CONTROL             REPROGRAMADA        Rocky                         Bulldog             Marron              CANINO
+104 20260408 1030 CONTROL             PROGRAMADA          Nala                          Persa               Gris                FELINO
+101 20260408 1000 VACUNACION          PROGRAMADA          Luna                          Labrador            Negro               CANINO
+111 20260408 1300 VACUNACION          PROGRAMADA          Slash                         Canario             Agata Rojo          AVE
+105 20260409 1100 CASTRACION          PROGRAMADA          Toby                          Beagle              Tricolor            CANINO
+106 20260409 1130 VACUNACION          PROGRAMADA          Simba                         Comun               Naranja             FELINO
+102 20260410 1000 CONTROL             PROGRAMADA          Fenix                         Ninfa               Lutino              AVE
+120 20260410 1230 VACUNACION          PROGRAMADA          Jon Bon Jovi                  Canario             Amarillo Mosaico    AVE
+107 20260411 1230 CONTROL             PENDIENTE           Max                           PastorAleman        Negro               CANINO
+112 20260414 930 VACUNACION          PENDIENTE           Goku                          GoldenRetriever     Marron              CANINO
+102 20260420 1000 CONTROL             PROGRAMADA          Fenix                         Ninfa               Lutino              AVE
+110 20260425 1030 VACUNACION          PENDIENTE           LuisXV                        Siberiano           plomo               FELINO
+112 20260514 1130 VACUNACION          PENDIENTE           Goku                          GoldenRetriever     Marron              CANINO

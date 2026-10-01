@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab4_26_1.dir\\main.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 04\\HECHO\\Lab4_26-1\\main.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/main.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug/CMakeFiles/Lab4_26_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab4_26_1.dir\\Biblioteca\\BibliotecaGenerica.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 04\\HECHO\\Lab4_26-1\\Biblioteca\\BibliotecaGenerica.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/Biblioteca/BibliotecaGenerica.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug/CMakeFiles/Lab4_26_1.dir/Biblioteca/BibliotecaGenerica.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab4_26_1.dir\\Biblioteca\\BibliotecaEnteros.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 04\\HECHO\\Lab4_26-1\\Biblioteca\\BibliotecaEnteros.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/Biblioteca/BibliotecaEnteros.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug/CMakeFiles/Lab4_26_1.dir/Biblioteca/BibliotecaEnteros.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab4_26_1.dir\\Biblioteca\\BibliotecaRegistros.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 04\\HECHO\\Lab4_26-1\\Biblioteca\\BibliotecaRegistros.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/Biblioteca/BibliotecaRegistros.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 04/HECHO/Lab4_26-1/cmake-build-debug/CMakeFiles/Lab4_26_1.dir/Biblioteca/BibliotecaRegistros.cpp.obj"
+}
+]
