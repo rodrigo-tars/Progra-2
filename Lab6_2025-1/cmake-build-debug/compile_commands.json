@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\main.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\main.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/main.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\Biblioteca\\Empresa.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\Biblioteca\\Empresa.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/Biblioteca/Empresa.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/Biblioteca/Empresa.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\Biblioteca\\Infraccion.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\Biblioteca\\Infraccion.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/Biblioteca/Infraccion.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/Biblioteca/Infraccion.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\Biblioteca\\MinisterioDeTransporte.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\Biblioteca\\MinisterioDeTransporte.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/Biblioteca/MinisterioDeTransporte.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/Biblioteca/MinisterioDeTransporte.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\Biblioteca\\Multa.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\Biblioteca\\Multa.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/Biblioteca/Multa.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/Biblioteca/Multa.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab6_2025_1.dir\\Biblioteca\\FuncionesAux.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab6_2025-1\\Biblioteca\\FuncionesAux.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/Biblioteca/FuncionesAux.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab6_2025-1/cmake-build-debug/CMakeFiles/Lab6_2025_1.dir/Biblioteca/FuncionesAux.cpp.obj"
+}
+]
