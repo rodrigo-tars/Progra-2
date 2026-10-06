@@ -1,5 +1,5 @@
 //
-// Created by renat on 26/9/2026.
+//
 //
 
 #include "BibliotecaEnteros.hpp"
