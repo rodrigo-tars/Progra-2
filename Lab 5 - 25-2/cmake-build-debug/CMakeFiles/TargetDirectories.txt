@@ -1,0 +1,3 @@
+C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/Lab_5___25_2.dir
+C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

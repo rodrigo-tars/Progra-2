@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_5___25_2.dir\\main.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab 5 - 25-2\\main.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/main.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/Lab_5___25_2.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_5___25_2.dir\\Streamer.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab 5 - 25-2\\Streamer.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/Streamer.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/Lab_5___25_2.dir/Streamer.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_5___25_2.dir\\FuncionesAuxiliares.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab 5 - 25-2\\FuncionesAuxiliares.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/FuncionesAuxiliares.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/Lab_5___25_2.dir/FuncionesAuxiliares.cpp.obj"
+},
+{
+  "directory": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Lab_5___25_2.dir\\GestorStreamers.cpp.obj -c \"C:\\Users\\LENOVO\\Documents\\PROGRAMACION 2 ACADEMIA\\LAB 05\\HECHO\\Lab 5 - 25-2\\GestorStreamers.cpp\"",
+  "file": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/GestorStreamers.cpp",
+  "output": "C:/Users/LENOVO/Documents/PROGRAMACION 2 ACADEMIA/LAB 05/HECHO/Lab 5 - 25-2/cmake-build-debug/CMakeFiles/Lab_5___25_2.dir/GestorStreamers.cpp.obj"
+}
+]

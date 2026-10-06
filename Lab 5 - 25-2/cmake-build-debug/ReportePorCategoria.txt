@@ -1,0 +1,200 @@
+PGamerTV            CODWarzone               16025             7768471          2034365229
+IBladeYT            CODWarzone             23067.3             6049070          1223605816
+TDrakeTV            CODWarzone             15953.4             9484363          7193355329
+TSniperLive         CODWarzone             25221.3             4705262          3534672945
+VToxicLive          CODWarzone             5579.54             9493402          7570646139
+PBladeZone          CODWarzone             26739.7             2629884          2449102093
+VAceTV              CODWarzone             19396.4             6677823          7137587648
+NSniperXD           CODWarzone             8577.42             4929440          4497013428
+AToxicLOL           CODWarzone               13466             1674740          1295809193
+NBladeHD            CODWarzone             34315.1             1058736          3120627621
+VDrakeHD            CODWarzone             5948.83              964237          2808767846
+TFireZone           CODWarzone             29998.3             3653661          2510864005
+INovaHD             CODWarzone             32550.7             6822614          5364308874
+KDrakeLive          CODWarzone             8833.35             7170494          1528147304
+XDrakeLOL           CODWarzone             32191.7             6612106          7528058239
+IGamerLOL           CODWarzone             21992.8             3068532          1084385846
+NBlade24            CODWarzone             21949.6             8988414          5305136667
+ISniperLOL          CODWarzone             32551.1             8832439          1381373346
+ZAceXD              CODWarzone             34402.2             1476553          4234669496
+SNova24             CODWarzone             7001.84             4081289          1466542634
+IToxicTV            CODWarzone             11710.5             5886869          7378173885
+ASniperHD           CODWarzone               18932             1161069          4582048938
+SFireLOL            CODWarzone             39497.8             8657057          2462230785
+KNovaTV             CS2                    25719.8             3133628          5751299609
+PAce_               CS2                      29418             9039188          4924568710
+PAcePro             CS2                    33767.8             8780359          3555702788
+IGamerPro           CS2                    19464.6             7355995          3986914905
+SWolfHD             CS2                      36015             4993990          5084257117
+ZGamer24            CS2                    12052.6             3249952          6132294246
+VWolfXD             CS2                    26076.6             9279805          2687529091
+VNova24             CS2                    12518.8             6471324          6678613268
+SSniperYT           CS2                    21821.4             1463567          4653385695
+NStorm24            CS2                    10610.5             6056987          6105075185
+SFireHD             CS2                    5753.74             9321457          2087612460
+VStormLive          CS2                    14218.1             4816410          5569687479
+NGamerYT            CS2                    7975.96             8760233          4197106131
+AWolfLOL            CS2                    18571.3             2850317          2470286431
+VGamer24            CS2                    5627.92              689184          4945363597
+ISniperPro          CS2                    19360.5             1823022          6460434898
+IAceLive            CS2                    32101.8             7994532          7584107690
+ANovaHD             CS2                    28263.2             4586044          1014422076
+ZFireZone           CS2                    37516.3             2332799          5093502435
+IBladeLOL           CS2                    33553.6             6840564          4510138968
+IDrakeTV            CS2                      24734             3991675          4157436885
+AToxicHD            CS2                    18838.8             6380098          7893941122
+VAceHD              CS2                    19103.4              630772          2239969392
+AGamerHD            Fortnite               39951.3             1388683          6169567286
+AGamer_             Fortnite               33773.9             9144358          7001413102
+NAce24              Fortnite               19113.6             2970890          6993149186
+VSniperTV           Fortnite               14571.7              977978          1632315434
+PFireTV             Fortnite               35854.3             3858606          4075326245
+IStormXD            Fortnite               12634.5              713286          7388146060
+TFireXD             Fortnite               9796.47             2037622          4407208206
+INovaYT             Fortnite               37324.9             9912182          3913738595
+ZAceYT              Fortnite               30737.3             6400543          4945536619
+XToxicLOL           Fortnite               28111.5             8702016          3748538311
+KSniperLive         Fortnite               6166.83             2473419          2675787330
+VFireTV             Fortnite               24680.2             8594742          5884615694
+SGamerHD            Fortnite               23056.9             1468471          1645638479
+VToxicZone          Fortnite               12945.8             9048825          2616794664
+TDrakePro           Fortnite               35311.1             3217607          4748216017
+TNovaHD             Fortnite               9030.64             4867767          4259245448
+SFireYT             Fortnite               39945.8             1494797          7424488032
+IGamerXD            Fortnite               13015.9             2337551          2494659639
+NNova_              Fortnite               24392.5             7683982          6059302691
+VWolfTV             Fortnite               16297.3             4634707          6257097914
+PStormHD            Fortnite               29982.9             8286894          3768966624
+ASniperTV           GTA V                  17068.7             2583949          6636334340
+PAceLOL             GTA V                    30395              559210          2835411712
+ABladePro           GTA V                  15491.3             7192254          6715101580
+XNovaPro            GTA V                  25724.6             6203668          7932243409
+AWolfTV             GTA V                  30168.6             4231891          6902261770
+TToxicZone          GTA V                  16735.5             1466964          7744313252
+XToxicXD            GTA V                  31765.3             2449516          1723708779
+VBladeYT            GTA V                  13010.1             4084264          6495062584
+AAceYT              GTA V                  39346.9             2856020          4803190504
+SFireLive           GTA V                  31516.7             8225360          1380801068
+IAce24              GTA V                  5252.96             6099810          2356982851
+TBladeZone          GTA V                  17337.2             4776430          2764425832
+PWolfZone           GTA V                  28297.5             4339510          3300994026
+IDrakeHD            GTA V                  16526.5             7889785          2144403326
+NSniper24           GTA V                  31450.2             4148831          1151837991
+NDrakeXD            GTA V                  14617.6             4665326          5126981190
+NWolfLive           GTA V                  20483.8             8914168          5327369176
+XBladeLive          GTA V                  21084.8             3414236          7786099874
+PToxicTV            GTA V                  25187.9             9292168          3282083150
+XDrakeZone          GTA V                  28957.2             2002796          5577405269
+PAce24              GTA V                  17644.8             7998375          4361107381
+KNovaLOL            GTA V                  20604.5             1013376          4631022756
+PSniper_            GTA V                  30052.2             3977111          2664874875
+TStormTV            GTA V                  22261.7             2525312          2238224246
+ZSniperPro          GTA V                  38495.2             5147049          7724509218
+NDrakeLive          GTA V                  27477.8             4053852          4136056136
+IDrakeXD            GTA V                  12068.3             8404482          4974277481
+TDrakeHD            JustChatting           9884.38             6235833          4759440609
+XNovaZone           JustChatting           27278.9             9465234          6526996941
+ZGamer_             JustChatting           13281.4             3181152          3068406487
+PGamer_             JustChatting           24980.5             1977385          3134799033
+VSniper24           JustChatting           14536.8             5444814          7888057276
+KAceHD              JustChatting             13448             2268670          4681707303
+PSniperLOL          JustChatting           21253.3             4358613          6748651815
+AStorm_             JustChatting           21887.3             4105974          4592376872
+ZWolf24             JustChatting           9104.28              667442          5294118573
+VDrakeLive          JustChatting           21506.8             9198043          7966917804
+ZSniperLOL          JustChatting           34388.7             6823166          6237958309
+TBlade_             JustChatting           22389.8             3035602          5574689695
+KFireLive           JustChatting           6313.28             1664136          2477452673
+TWolfHD             JustChatting           23106.7             6201782          4115906108
+XGamerLive          JustChatting           5127.95             1019027          3412556335
+ZNova_              JustChatting           22006.4             5453585          2253781134
+ZWolfPro            JustChatting           9526.37             3607708          4142543455
+ABladeHD            JustChatting           39942.6             8528808          5983598441
+VAceLive            JustChatting           16075.6             9043717          7023021039
+XFireXD             LeagueOfLegends          25501             6233060          6820977937
+KBladeZone          LeagueOfLegends        16937.1             3360935          4378534477
+XNovaHD             LeagueOfLegends         9584.4             1483417          4758251075
+KAceXD              LeagueOfLegends        21097.5             7729825          7323947101
+NBladeZone          LeagueOfLegends          38890             7986016          1466048001
+XGamerPro           LeagueOfLegends        7751.96             2246312          2881361283
+NStorm_             LeagueOfLegends        11742.1             1164605          3259103680
+ZAce_               LeagueOfLegends        15952.2             6224865          2207289703
+TToxic_             LeagueOfLegends        11486.3             1219862          2047992998
+XNovaXD             LeagueOfLegends        27491.2             4292895          4052952761
+NSniperYT           LeagueOfLegends        16434.4             2195315          7737678673
+AGamerYT            LeagueOfLegends        13152.6             5333772          7109031755
+VWolf_              MTG                    38253.5             1502007          6919733172
+SFireTV             MTG                    34431.2             5284031          7889584641
+INova24             MTG                    27518.2             5896600          1184645352
+ISniperLive         MTG                    39644.1             2735580          4129444107
+SNovaLive           MTG                    26588.3             2813003          3140651644
+SBladePro           MTG                    15539.1              807584          4533281924
+ANovaPro            MTG                    23665.5             1313440          5352753395
+NGamer_             MTG                    32565.8             2007884          3417524023
+ZFireHD             MTG                    6966.73             3588833          2595239510
+PGamerXD            MTG                    19398.1             4884207          5190507583
+TNovaTV             MTG                    10506.3             1328150          3541049610
+NGamerLOL           MTG                    9643.78             6907281          3557331962
+ZAcePro             MTG                    34092.3             3666214          7033194688
+XToxic24            MTG                    32192.4             1388642          6547105477
+SBladeXD            MTG                    12141.8             5338102          5424872754
+NSniperTV           Minecraft              13566.1             8801863          3517471217
+SNova_              Minecraft              25731.6             6539204          6011215439
+PNovaLive           Minecraft              7412.85             9898674          5689074822
+VFireYT             Minecraft              9482.01             5584821          3962447151
+SToxicLOL           Minecraft              8249.31             9063041          1730446629
+TFireHD             Minecraft              36601.1             4660358          4866224613
+PFireXD             Minecraft              11899.3             8570335          3441781970
+NNovaHD             Minecraft              19562.7             6041915          7959076384
+VNovaPro            Minecraft              29415.4             6264450          7284344464
+XToxicTV            Minecraft              26334.3             9459776          2952614492
+ZNovaPro            Minecraft              28118.3              761421          3721341924
+IAceYT              Minecraft                35671             8360833          7431578058
+ABladeTV            Minecraft              39769.8              837901          2766125723
+KFire24             Minecraft              6376.05             2659504          6589217460
+AToxic24            Minecraft              32004.6             3487998          4768986399
+KNovaHD             Minecraft                35364             5454186          1641443676
+KBladeYT            Minecraft                29719             4771111          2636949987
+TGamerXD            Minecraft              21504.7             9010771          4650503355
+SToxic_             Minecraft              32513.1             3746267          5495554480
+ADrakeTV            Minecraft              30326.4             6631744          5313320536
+ANovaLOL            Minecraft                18561             3253040          7836642928
+KWolf_              Minecraft              31470.7             9059695          6537495035
+XStormHD            PUBG                   38932.7             4865726          5758257274
+NStormPro           PUBG                     37609             6459295          5831259939
+PWolfXD             PUBG                   20507.9             5564103          3080172382
+NStormLive          PUBG                   25423.3             5608602          1222671286
+NWolfPro            PUBG                   20802.8             4648478          7816618350
+SWolfLive           PUBG                   15498.1             6512904          3634342045
+PStormLive          PUBG                   32661.7             2517151          5975516907
+VFireZone           PUBG                   36502.8             7970932          1983032260
+PBladeYT            PUBG                   5903.54             2467481          2842029529
+IDrakePro           PUBG                   39523.6             7426561          4320917864
+XStormLOL           PUBG                   28788.9             7760231          5509857892
+ZGamerHD            PUBG                   10364.4             9204240          3349201514
+NSniperHD           PUBG                   20928.4              726241          6340891195
+ZStormZone          PUBG                   22457.1             7383796          1517778181
+VGamer_             PUBG                     37154             1304955          6742894918
+VAce24              PUBG                   11629.1             1751105          5928065472
+XSniperYT           PUBG                   7594.31             8997838          1146423808
+SWolfLOL            PUBG                   19150.3             8634007          5439797645
+ZDrakeYT            Valorant               33476.7             5124344          1405043547
+KDrakeTV            Valorant               29091.8             9620544          2886520602
+XBlade_             Valorant               24638.2             7851926          6271337604
+NStormLOL           Valorant               37433.7             9217569          7634030746
+XSniperZone         Valorant               23264.2             1255044          6947767826
+PBladeXD            Valorant               8800.13             2906323          6104966147
+KStormTV            Valorant                 26887             7654869          4822196376
+NToxicLive          Valorant               32762.9             3476037          5270930779
+NGamerTV            Valorant               8630.95             8027904          6404687255
+ZAceTV              Valorant               22265.8             3638124          1414226594
+AStormHD            Valorant               38516.9             4332797          5067627202
+KFirePro            Valorant               33612.8             3146360          7351268210
+XFire_              Valorant               12531.2             6720408          3405545601
+XFireLive           Valorant               15398.1             8859654          6052517670
+SFire_              Valorant               32848.5             8140558          4218118352
+KWolfTV             Valorant               20813.1             9875660          1061513405
+AWolfHD             Valorant               7479.06             6495531          4299017198
+ZWolfLOL            Valorant               27314.8             1352353          6361949910
+AAceLOL             Valorant               32811.2             7787486          7628030401
+ZGamerLive          Valorant                 28000             6932066          6257440718
