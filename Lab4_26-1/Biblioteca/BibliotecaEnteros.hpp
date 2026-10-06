@@ -1,5 +1,5 @@
 //
-// Created by renat on 26/9/2026.
+//
 //
 
 #ifndef LAB4_26_1_BIBLIOTECAENTEROS_HPP
